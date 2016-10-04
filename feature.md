@@ -13,4 +13,4 @@ function a()
 }
 ```
 
-![Select the job diagram](.\media\ExpandDiagram.png)
+![Select the job diagram](media/ExpandDiagram.png)
