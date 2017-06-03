@@ -17,6 +17,7 @@ To workaround this, link your database manually to the web app.
 Similarly if you create ClearDB database in the [classic Azure portal](http://manage.windowsazure.com/) you will not be able to see your database in the new Azure portal. There is no workaround for this scenario. For more details, please click [here](https://azure.microsoft.com/en-us/documentation/articles/store-cleardb-faq/).
 
 * Add this paragraph in second commit.[^1], [check it out](1)
+* Add this paragraph in thrid commit.[^1], [check it out](1)
 
  
 [1]:http://github.com "visit github.com"
