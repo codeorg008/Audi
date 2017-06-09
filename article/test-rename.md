@@ -20,4 +20,4 @@ Similarly if you create ClearDB database in the [classic Azure portal](http://ma
 * Add this paragraph in thrid commit.[^1], [check it out](1)
 
  
-[1]:http://github.com "visit github.com"
+[1]:http://doc.microsoft.com/en-gb/documentation/articles/store-cleardb-faq "visit github.com"
