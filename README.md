@@ -1,6 +1,7 @@
 # Audi
 
 ## **This is car building project** 
+<<<<<<< HEAD
 
 1. glass
 2. whell
@@ -17,3 +18,5 @@
 [1]:http://wwww.google.com "Optional title" 
 
 Audi S4 will be an option.
+=======
+>>>>>>> master
