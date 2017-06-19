@@ -4,7 +4,7 @@
     service="microsoft.compute"
     resource="virtualmachinescalesets"
     authors="gatneil"
-    displayOrder="2"
+    displayOrder=""
     selfHelpType="resource"
     supportTopicIds=""
     productPesIds=""
