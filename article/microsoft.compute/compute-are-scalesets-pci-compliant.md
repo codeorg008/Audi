@@ -22,3 +22,5 @@ From a compliance perspective, virtual machine scale sets are a fundamental part
 ## Recommended Documents
 
 For more information, see [the Microsoft Trust Center](https://www.microsoft.com/TrustCenter/Compliance/PCI).
+
+new change
