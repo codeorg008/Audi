@@ -21,3 +21,5 @@ Similarly if you create ClearDB database in the [classic Azure portal](http://ma
 
  
 [1]:http://doc.microsoft.com/en-gb/documentation/articles/store-cleardb-faq "visit github.com"
+
+update the change via a pull request
