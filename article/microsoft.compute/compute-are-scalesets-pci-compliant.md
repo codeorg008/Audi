@@ -4,7 +4,7 @@
     service="microsoft.compute"
     resource="virtualmachinescalesets"
     authors="gatneil"
-    displayOrder="2"
+    displayOrder=""
     selfHelpType="resource"
     supportTopicIds=""
     productPesIds=""
@@ -22,3 +22,5 @@ From a compliance perspective, virtual machine scale sets are a fundamental part
 ## Recommended Documents
 
 For more information, see [the Microsoft Trust Center](https://www.microsoft.com/TrustCenter/Compliance/PCI).
+
+new change
